@@ -4,7 +4,7 @@ body {
   cursor: crosshair;
 }
 canvas{display:block}
-h1 {
+.importante {
   position: absolute;
   top: 40%;
   left: 50%;
