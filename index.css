@@ -1,6 +1,6 @@
 body {
   margin: 2;
-  background: #020202;
+  background: #cc8f94;
   cursor: crosshair;
 }
 canvas{display:block}
@@ -9,19 +9,20 @@ h1 {
   top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: #F4F5F7;
+  color: #cc8f94;
   font-family: "Impact,Charcoal,sans-serif";
   font-size: 5em;
   font-weight: 800;
   -webkit-user-select: none;
   user-select: none;
+  
 }
 h2 {
   position: absolute;
   top: 80%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: #F4F6F7;
+  color: #cc8f94;
   font-family: "Impact,Charcoal,sans-serif";
   font-size: 5em;
   font-weight: 800;
